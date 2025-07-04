@@ -1,3 +1,6 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper-20250704T010234/REAPER_7.41-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper-20250703T201458/REAPER_7.41-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper/REAPER_7.41-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250619T122836/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250613T161713/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250613T122559/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
@@ -27,6 +30,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu-20250114T081703/QuickEMU_4.9.7.r4.g622ecfd-1-archimage4.2-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu/QuickEMU_4.9.7.r16.gdaba59d-1-archimage4.2-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu/QuickEMU_4.9.7.r4.g622ecfd-1-archimage4.2-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/webcamoid-20250106T081616/Webcamoid_9.2.3-1-archimage3.4.4-2-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20250106T081610/Asunder-CD-Ripper_3.0.1-2-archimage3.4.4-2-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/webcamoid-20241229T201232/Webcamoid_9.2.3-1-archimage3.4.4-2-x86_64.AppImage
