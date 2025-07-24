@@ -1,3 +1,6 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20250722T122829/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20250722T082101/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250722T161949/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/webcamoid-20250721T082249/Webcamoid_9.2.3-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20250721T122957/Sunvox_2.1.2.b-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250721T043842/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
@@ -6,6 +9,7 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20250718T162005/SimpleScreenRecorder-0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20250718T122836/SimpleScreenRecorder-0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder/SimpleScreenRecorder-0.4.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu-20250714T082300/QuickEMU_4.9.7.r42.ge4c2c5cf-1-archimage4.2-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250714T043834/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250714T043817/Gear-Lever_3.3.3-1-archimage4.3-x86_64.AppImage
@@ -25,6 +29,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla/FileZilla_3.69.1-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper-20250704T010234/REAPER_7.41-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper-20250703T201458/REAPER_7.41-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper/REAPER_7.41-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250619T122836/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20250613T161713/Poedit_3.6.1-2-archimage4.3-x86_64.AppImage
