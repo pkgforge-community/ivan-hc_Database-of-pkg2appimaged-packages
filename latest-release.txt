@@ -1,3 +1,7 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250804T045438/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250804T045422/Gear-Lever_3.4.0-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-20250804T045408/FileZilla_3.69.2-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20250804T045400/Asunder-CD-Ripper_3.0.1-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/reaper-20250728T122940/REAPER_7.42-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250728T044152/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250728T044145/Gear-Lever_3.3.4-2-archimage4.3-x86_64.AppImage
@@ -25,7 +29,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki-20250714T201704/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki-20250714T161914/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki-20250714T082201/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki-20250714T043743/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki-20250714T010825/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/anki/Anki_25.07.2-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-20250704T161631/FileZilla_3.69.1-1-archimage4.3-x86_64.AppImage
