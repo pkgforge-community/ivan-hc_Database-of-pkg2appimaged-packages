@@ -1,3 +1,9 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu-20250818T082520/QuickEMU_4.9.7.r50.ga6367ccb-1-archimage4.2-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250818T043433/Kwave_25.08.0-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250818T043423/Gear-Lever_3.4.1-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20250818T082448/Falkon_25.08.0-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/chromium-bsu-20250818T082441/Chromium-B.S.U._0.9.16.1-3-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/audacious-20250818T082432/Audacious_4.4.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/webcamoid-20250811T044622/Webcamoid_9.3.0-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250811T044612/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250811T044604/Gear-Lever_3.4.0-1-archimage4.3-x86_64.AppImage
@@ -23,9 +29,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder/SimpleScreenRecorder-0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu-20250714T082300/QuickEMU_4.9.7.r42.ge4c2c5cf-1-archimage4.2-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250714T043834/Kwave_25.04.3-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250714T043817/Gear-Lever_3.3.3-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20250714T082234/Falkon_25.04.3-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/chromium-bsu-20250714T082228/Chromium-B.S.U._0.9.16.1-3-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/audacious-20250714T082220/Audacious_4.4.2-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20250714T043808/Asunder-CD-Ripper_3.0.1-2-archimage4.3-x86_64.AppImage
