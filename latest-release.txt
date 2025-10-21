@@ -1,3 +1,6 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251020T042234/Kwave_25.08.2-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20251020T042223/Gear-Lever_3.4.5-1-archimage4.3-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20251020T042213/Asunder-CD-Ripper_3.0.1-2-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/quickemu-20251013T082120/QuickEMU_4.9.7.r58.g78b938f-1-archimage4.2-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251013T042018/Kwave_25.08.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20251013T042005/Gear-Lever_3.4.5-1-archimage4.3-x86_64.AppImage
@@ -25,6 +28,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250922T041659/Kwave_25.08.1-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250922T041651/Gear-Lever_3.4.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20250922T041645/Asunder-CD-Ripper_3.0.1-2-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan3-20250922T010200/Document_Scanner-3.38.1-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan3-20250921T201359/Document_Scanner-3.38.1-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan3/Document_Scanner-3.38.1-1-x86_64.AppImage
