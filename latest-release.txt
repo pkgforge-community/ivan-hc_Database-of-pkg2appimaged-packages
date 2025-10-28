@@ -1,3 +1,6 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251027T042547/Kwave_25.08.2-1-archimage4.9-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20251027T042537/Gear-Lever_3.4.5-1-archimage4.9-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20251027T042530/Asunder-CD-Ripper_3.0.1-2-archimage4.9-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20251023T201522/Poedit_3.7-2-archimage5.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251020T042234/Kwave_25.08.2-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20251020T042223/Gear-Lever_3.4.5-1-archimage4.3-x86_64.AppImage
@@ -25,6 +28,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250929T041948/Kwave_25.08.1-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250929T041926/Gear-Lever_3.4.3-1-archimage4.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-20250929T041914/FileZilla_3.69.3-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20250929T041905/Asunder-CD-Ripper_3.0.1-2-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20250922T041659/Kwave_25.08.1-1-archimage4.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20250922T041651/Gear-Lever_3.4.2-1-archimage4.3-x86_64.AppImage
