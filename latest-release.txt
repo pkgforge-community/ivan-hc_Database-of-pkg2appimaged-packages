@@ -1,3 +1,9 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20260106T161932/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor-20260106T201904/MATE_System_Monitor-1.26.0-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor/MATE_System_Monitor-1.26.0-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/extremetuxracer-20260106T201853/Extreme_Tux_Racer-0.8.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/extremetuxracer/Extreme_Tux_Racer-0.8.4-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/baobab3-20260106T161927/Disk_Usage_Analyzer-3.38.0-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/visipics-20251119T161825/VisiPics-1.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251119T201514/Sunvox_2.1.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251119T161821/Sunvox_2.1.3-x86_64.AppImage
@@ -22,9 +28,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20251101T201552/Falkon_25.08.2-2-archimage5.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20251101T161520/Falkon_25.08.2-2-archimage5.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/chromium-bsu-20251101T161513/Chromium-B.S.U._0.9.16.1-3-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/audacious-20251101T161505/Audacious_4.5.1-1-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20251101T161458/Asunder-CD-Ripper_3.0.1-2-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251027T042547/Kwave_25.08.2-1-archimage4.9-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gearlever-20251027T042537/Gear-Lever_3.4.5-1-archimage4.9-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/asunder-20251027T042530/Asunder-CD-Ripper_3.0.1-2-archimage4.9-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/poedit-20251023T201522/Poedit_3.7-2-archimage5.0-x86_64.AppImage
