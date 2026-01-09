@@ -1,3 +1,9 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan-20260108T201930/Document_Scanner-3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan/Document_Scanner-3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gnome-system-monitor-20260108T201920/System_Monitor-3.38.0-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gnome-system-monitor/System_Monitor-3.38.0-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/baobab-20260108T201914/Disk_Usage_Analyzer-3.38.0-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/baobab/Disk_Usage_Analyzer-3.38.0-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20260106T161932/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor-20260106T201904/MATE_System_Monitor-1.26.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor/MATE_System_Monitor-1.26.0-x86_64.AppImage
@@ -22,9 +28,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/webcamoid-20251102T010507/Webcamoid_9.3.0-2-archimage5.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251102T010503/Sunvox_2.1.3-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251101T201605/Sunvox_2.1.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-server-20251102T010456/FileZilla-Server-Server_1.11.1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-server/FileZilla-Server-Server_1.11.1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-20251102T010444/FileZilla_3.69.3-1-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20251101T201552/Falkon_25.08.2-2-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/falkon-20251101T161520/Falkon_25.08.2-2-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/chromium-bsu-20251101T161513/Chromium-B.S.U._0.9.16.1-3-archimage5.0-x86_64.AppImage
