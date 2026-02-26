@@ -1,3 +1,8 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan-20260225T052700/Document-Scanner_3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gnome-system-monitor-20260225T052655/System-Monitor_3.38.0-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/eog-20260225T052648/Image-Viewer_3.38.2-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/eog/Image-Viewer_3.38.2-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/baobab-20260225T052644/Disk-Usage-Analyzer_3.38.0-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan-20260109T201735/Document-Scanner_3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan-20260109T043610/Document-Scanner_3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gnome-system-monitor-20260109T201730/System-Monitor_3.38.0-1-x86_64.AppImage
@@ -26,8 +31,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan3-20251119T161815/Document_Scanner-3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simple-scan3-20251119T122658/Document_Scanner-3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gnome-system-monitor3-20251119T161810/System_Monitor-3.38.0-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-server-20251119T201507/FileZilla-Server-Server_1.11.1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/filezilla-server-20251119T161805/FileZilla-Server-Server_1.11.1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251117T042033/Kwave-Sound-Editor_25.08.3-1-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251110T042245/Kwave-Sound-Editor_25.08.3-1-archimage5.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/kwave-20251103T042545/Kwave-Sound-Editor_25.08.2-1-archimage5.0-x86_64.AppImage
