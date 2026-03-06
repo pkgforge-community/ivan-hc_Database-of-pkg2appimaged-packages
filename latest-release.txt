@@ -1,3 +1,9 @@
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gedit-20260305T083248/Text-Editor_3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gedit-20260305T051052/Text-Editor_3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/gedit/Text-Editor_3.38.1-1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/galculator-20260305T083244/Galculator_2.1.4-1.1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/galculator-20260305T051048/Galculator_2.1.4-1.1-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/galculator/Galculator_2.1.4-1.1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/file-roller-20260302T203352/Archive-Manager_3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/file-roller-20260302T163714/Archive-Manager_3.38.1-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/file-roller/Archive-Manager_3.38.1-1-x86_64.AppImage
@@ -25,9 +31,3 @@ https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/simplescreenrecorder-20260106T161932/SimpleScreenRecorder_0.4.4-1-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor-20260106T201904/MATE_System_Monitor-1.26.0-x86_64.AppImage
 https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/mate-system-monitor/MATE_System_Monitor-1.26.0-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/extremetuxracer-20260106T201853/Extreme_Tux_Racer-0.8.4-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/extremetuxracer/Extreme_Tux_Racer-0.8.4-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/baobab3-20260106T161927/Disk_Usage_Analyzer-3.38.0-1-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/visipics-20251119T161825/VisiPics-1.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251119T201514/Sunvox_2.1.3-x86_64.AppImage
-https://github.com/pkgforge-community/ivan-hc_Database-of-pkg2appimaged-packages/releases/download/sunvox-20251119T161821/Sunvox_2.1.3-x86_64.AppImage
